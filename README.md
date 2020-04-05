@@ -1,4 +1,4 @@
-# STVS-FaceShield
+<img src="logo.png" height="100px">
 A 3D-printed face shield mixing the ideas from other shields. It was created due to the COVID-19 pandemic of 2020 (December 2019), but should be able to be useful afterwards...
 
 ## About STVS FaceShield
