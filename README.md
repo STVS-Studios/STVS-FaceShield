@@ -4,7 +4,9 @@ A 3D-printed face shield mixing the ideas from other shields. It was created due
 ## About STVS FaceShield
 My take on a face-shield results in "STVS FaceShield". It's based on the model by 3DVERKSTAN (for EU hole punchers), where i extended the front, to get more breathing room between the face and the visor. I also replaced the bottom part with the PRUSA model, edited to have the same size. I've published two versions. One has the same height all the way, the other one contains a higher face-touching area, as high as PRUSA's model.
 
-<ADD IMAGES HERE>
+<img src="shield-stvs.jpg" width="150px"> V3 with the same height all over.
+
+<img src="shield-stvs-small.jpg" width="150px"> V3 with an expanded face-touching area.
 
 I designed it with my current experience in 3d-modeling, printing and manufacturing setup in mind. With my small printing bed, some edits were needed. Because of that, it needs an elastic band behind the shield. In return it can be cut to the desired length (at least 33cm), fitting on more heads in a personalized manner.
 With the small version, similar printing speeds as for 3DVERKSTAN's model could be achieved (for some specific 3D printers of course), making it easier to produce in mass quantities.
@@ -16,8 +18,11 @@ But some are used in medical environments, some are even checked by professional
 
 PRUSA and 3DVERKSTAN already have documents describing the safe way of manufacturing and handling them:
 
-<ADD LINKS>
- 
+<ul>
+                        <li><a href="https://manual.prusa3d.com/Guide/How+to+assemble+the+Prusa+Face+Shield+-+RC1-RC2-RC3/1527#_ga=2.144501437.928973681.1586040298-2037435839.1583232141">PRUSA's manufacturing guide</a></li>
+                        <li><a href="https://3dverkstan.se/protective-visor/">3DVERKSTANS's project site. The handling guide is in swedish though. Others are also in english.</a></li>
+                    </ul>
+                    
 But summarized, it would be the following:
 * Wear a face mask and fresh gloves, for handling each batch of printed parts.
 * Store each part seperately in a sealable bag.
