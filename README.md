@@ -1,5 +1,5 @@
 <img src="logo.png" width="100%">
-A 3D-printed face shield mixing the ideas from other shields. It was created due to the COVID-19 pandemic of 2020 (December 2019), but should be able to be useful afterwards...
+A 3D-printed face shield mixing the ideas from other shields. It was created due to the COVID-19 pandemic of 2020 (December 2019), but is able to be useful afterwards...
 [Also available on NIH 3D Print Exchange](https://3dprint.nih.gov/discover/3dpx-013560)
 ## About STVS FaceShield
 My take on a face-shield results in "STVS FaceShield". It's based on the model by 3DVERKSTAN (for EU hole punchers), where i extended the front, to get more breathing room between the face and the visor. I also replaced the bottom part with the PRUSA model, edited to have the same size. I've published two versions. One has the same height all the way, the other one contains a higher face-touching area, as high as PRUSA's model.
