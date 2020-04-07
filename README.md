@@ -42,7 +42,7 @@ With all safety measures in place, you can follow these reccomendations:
 
 For the visor (Based on 3DVERKSTAN's guide):
 * I use transparent sheets for overhead-projectors. Laminating foil can be used as well (Both in DIN-A4)
-* My EU sized hole puncher was set to A6. (You may need to punch holes on one of the two sides a bit smaller or larger than A6. You should test it with some regular A4 paper, just in case.
+* My EU sized hole puncher was set to A6. (You may need to punch holes on one of the two sides a bit smaller or larger than A6. You should test it with some regular A4 paper, just in case.)
 * Make one punch on one side of the long side of your sheet.
 * Flip the sheet around it's short axis and repeat punching on the opposite side.
 * On said long side, there should be four (4 holes)
